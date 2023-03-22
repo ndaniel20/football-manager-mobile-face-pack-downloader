@@ -1,0 +1,63 @@
+<?xml version="1.0"?>
+<record>
+  <boolean id="preload" value="false"/>
+  <amap id="amap" value="false"/>
+  <!-- list of faces added by Brockor -->
+  <list id="maps">
+    <record from="13136664" to="graphics/pictures/person/13136664/portrait"/>
+    <record from="1510566" to="graphics/pictures/person/1510566/portrait"/>
+    <record from="19242277" to="graphics/pictures/person/19242277/portrait"/>
+    <record from="2000034357" to="graphics/pictures/person/2000034357/portrait"/>
+    <record from="2000040347" to="graphics/pictures/person/2000040347/portrait"/>
+    <record from="2000041642" to="graphics/pictures/person/2000041642/portrait"/>
+    <record from="2000048404" to="graphics/pictures/person/2000048404/portrait"/>
+    <record from="2000048420" to="graphics/pictures/person/2000048420/portrait"/>
+    <record from="2000049413" to="graphics/pictures/person/2000049413/portrait"/>
+    <record from="2000049416" to="graphics/pictures/person/2000049416/portrait"/>
+    <record from="2000049419" to="graphics/pictures/person/2000049419/portrait"/>
+    <record from="2000056415" to="graphics/pictures/person/2000056415/portrait"/>
+    <record from="2000058198" to="graphics/pictures/person/2000058198/portrait"/>
+    <record from="2000058232" to="graphics/pictures/person/2000058232/portrait"/>
+    <record from="2000058460" to="graphics/pictures/person/2000058460/portrait"/>
+    <record from="2000100315" to="graphics/pictures/person/2000100315/portrait"/>
+    <record from="2000101543" to="graphics/pictures/person/2000101543/portrait"/>
+    <record from="2000125693" to="graphics/pictures/person/2000125693/portrait"/>
+    <record from="2000125886" to="graphics/pictures/person/2000125886/portrait"/>
+    <record from="2000134239" to="graphics/pictures/person/2000134239/portrait"/>
+    <record from="2000134376" to="graphics/pictures/person/2000134376/portrait"/>
+    <record from="2000141728" to="graphics/pictures/person/2000141728/portrait"/>
+    <record from="2000141737" to="graphics/pictures/person/2000141737/portrait"/>
+    <record from="2000141739" to="graphics/pictures/person/2000141739/portrait"/>
+    <record from="2000160572" to="graphics/pictures/person/2000160572/portrait"/>
+    <record from="2000164535" to="graphics/pictures/person/2000164535/portrait"/>
+    <record from="2000164574" to="graphics/pictures/person/2000164574/portrait"/>
+    <record from="27066387" to="graphics/pictures/person/27066387/portrait"/>
+    <record from="28116427" to="graphics/pictures/person/28116427/portrait"/>
+    <record from="28120039" to="graphics/pictures/person/28120039/portrait"/>
+    <record from="35017428" to="graphics/pictures/person/35017428/portrait"/>
+    <record from="37047745" to="graphics/pictures/person/37047745/portrait"/>
+    <record from="45106153" to="graphics/pictures/person/45106153/portrait"/>
+    <record from="48036304" to="graphics/pictures/person/48036304/portrait"/>
+    <record from="5124470" to="graphics/pictures/person/5124470/portrait"/>
+    <record from="67052513" to="graphics/pictures/person/67052513/portrait"/>
+    <record from="67063007" to="graphics/pictures/person/67063007/portrait"/>
+    <record from="67080310" to="graphics/pictures/person/67080310/portrait"/>
+    <record from="67207187" to="graphics/pictures/person/67207187/portrait"/>
+    <record from="67213093" to="graphics/pictures/person/67213093/portrait"/>
+    <record from="67221484" to="graphics/pictures/person/67221484/portrait"/>
+    <record from="67258576" to="graphics/pictures/person/67258576/portrait"/>
+    <record from="67265793" to="graphics/pictures/person/67265793/portrait"/>
+    <record from="67265794" to="graphics/pictures/person/67265794/portrait"/>
+    <record from="67276122" to="graphics/pictures/person/67276122/portrait"/>
+    <record from="67276231" to="graphics/pictures/person/67276231/portrait"/>
+    <record from="67277819" to="graphics/pictures/person/67277819/portrait"/>
+    <record from="67293265" to="graphics/pictures/person/67293265/portrait"/>
+    <record from="67293495" to="graphics/pictures/person/67293495/portrait"/>
+    <record from="67295099" to="graphics/pictures/person/67295099/portrait"/>
+    <record from="67296654" to="graphics/pictures/person/67296654/portrait"/>
+    <record from="719601" to="graphics/pictures/person/719601/portrait"/>
+    <record from="78085068" to="graphics/pictures/person/78085068/portrait"/>
+    <record from="85140178" to="graphics/pictures/person/85140178/portrait"/>
+    <record from="89056845" to="graphics/pictures/person/89056845/portrait"/>
+  </list>
+</record>
